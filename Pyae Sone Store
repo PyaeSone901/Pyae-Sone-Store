@@ -1,0 +1,11 @@
+Pyae-Sone-Store/        <-- GitHub repo root
+ ├─ customer_app/        <-- Customer App folder
+ │   ├─ lib/             <-- Dart files (Flutter code)
+ │   ├─ pubspec.yaml     <-- Dependencies
+ │   ├─ android/         <-- Android native files
+ │   └─ assets/          <-- Images/icons used in the app
+ └─ admin_app/           <-- Admin App folder
+     ├─ lib/
+     ├─ pubspec.yaml
+     ├─ android/
+     └─ assets/
